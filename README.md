@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-https://meet.google.com/fry-vmrf-uwb
+ https://meet.google.com/zpo-kcjf-eon
 
 ## Available Scripts
 
