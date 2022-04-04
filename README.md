@@ -6,6 +6,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+
+id 'dagger.hilt.android.plugin'
+
+
+https://meet.google.com/yib-xiro-okc
+
 In the project directory, you can run:
 
 ### `npm start`
